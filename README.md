@@ -1,6 +1,4 @@
-## I'm Felipe 👋
-
-# Hi, 
+# Hi, I'm Felipe 👋
 
 Backend developer.
 
