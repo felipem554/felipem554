@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# Hi, I'm Felipe 👋
+
+Backend developer.
+
+Mostly working with Java, Spring Boot, Go, Docker, databases, cloud, and distributed systems that refuse to distribute correctly.
+
 <!--
 **felipem554/felipem554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
