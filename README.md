@@ -1,6 +1,6 @@
-## Hi there 👋
+## I'm Felipe 👋
 
-# Hi, I'm Felipe 👋
+# Hi, 
 
 Backend developer.
 
